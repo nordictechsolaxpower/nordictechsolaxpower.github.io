@@ -2,7 +2,7 @@
 
 Detta repo är avsett för interna guider som inte ska indexeras av sökmotorer.
 Allt innehåll nås endast via exakt URL (ingen inloggning).
-
+........
 ## Så här använder du
 1. Ladda upp mappen till ett nytt GitHub‑repo.
 2. Aktivera **Settings → Pages** → Deploy from branch (main / root).
